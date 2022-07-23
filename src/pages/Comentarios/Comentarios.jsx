@@ -1,3 +1,5 @@
+
+import Footer from '../../components/Footer/Footer'
 import { useState, useEffect } from 'react'
 import Header from '../../components/Header/Header'
 import { FiTrash2, FiPlus } from 'react-icons/fi'
