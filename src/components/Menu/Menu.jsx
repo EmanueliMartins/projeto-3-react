@@ -15,9 +15,6 @@ function Menu () {
             <li className="item">
              <Link className ="link" to= "/contato">Contato</Link>
             </li>
-            <li className="item">
-             <Link className ="link" to= "/diario">Diario</Link>
-            </li>
         </ul>
     )
 }
